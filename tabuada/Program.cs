@@ -7,6 +7,7 @@ namespace tabuada
         static void Main(string[] args)
         {
             int formula, contador, numero;
+
             Console.WriteLine("\n\n************ tabuada ****************");
             Console.WriteLine("\nDigite um  numero para obter a tabuada :");
             numero = int.Parse(Console.ReadLine());
